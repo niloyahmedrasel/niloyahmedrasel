@@ -6,9 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niloyahmedrasel" alt="niloyahmedrasel" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://raselsportfolio.netlify.app/](https://raselsportfolio.netlify.app/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **software engineering**
 
 - 📫 How to reach me **niloyahmedrasel24@gmail.com**
 

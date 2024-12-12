@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niloy Ahmed Rasel</h1>
-<h3 align="center">A passionate web developer from bangladesh</h3>
+<h3 align="center">A passionate software engineer</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSsqs-4YYdmLyXZH45yk6Kl5D3CHJ8IRK1g&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niloyahmedrasel&label=Profile%20views&color=0e75b6&style=flat" alt="niloyahmedrasel" /> </p>
